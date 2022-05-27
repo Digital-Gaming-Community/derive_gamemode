@@ -1,4 +1,4 @@
-# DeriveGamemode for Maax´s Studios Roleplay Framework
+# Deriveing Gamemode for Maax´s Studios RP
 
 WIP
  
